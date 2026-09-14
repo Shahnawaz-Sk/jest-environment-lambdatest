@@ -28,7 +28,7 @@ With TestMu AI (Formerly LambdaTest), you can run Jest tests across real browser
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 
-- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+- Follow the [Selenium and Jest automation testing on TestMu AI](https://www.testmuai.com/support/docs/automation-testing-with-selenium-and-jest/?utm_source=github&utm_medium=referral) for the full setup walkthrough.
 
 
 
